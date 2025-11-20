@@ -18,7 +18,7 @@ A professional website for Kebsi Bike Repair, a bicycle repair service located i
 - Brake services and adjustments
 - Wheel and tire repairs
 - Chain and gear maintenance
-- All types of bikes (Mountain, Road, Electric, BMX, etc.)
+- All types of bikes (Mountain, Road, Hybrid, BMX, etc.)
 - Mobile repair service (we come to you!)
 
 ## Setup Instructions
